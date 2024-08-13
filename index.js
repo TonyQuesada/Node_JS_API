@@ -1,3 +1,5 @@
+//Run with the command "node index.js"
+
 const express = require('express');
 const app = express();
 
